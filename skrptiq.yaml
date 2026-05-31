@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "8283987f-e09c-448c-a3b4-05860d21aae8"
+name: "social-media-platform-guide"
+display_name: "Social Media Platform Guide"
+description: "Platform specifications, character limits, and best practices for major social networks"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-social-media-platform-guide"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
