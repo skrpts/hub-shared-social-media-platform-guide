@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "8283987f-e09c-448c-a3b4-05860d21aae8"
+id: "8a9ac21e-e26c-4064-825a-5150eb24df44"
 name: "social-media-platform-guide"
 display_name: "Social Media Platform Guide"
 description: "Platform specifications, character limits, and best practices for major social networks"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
