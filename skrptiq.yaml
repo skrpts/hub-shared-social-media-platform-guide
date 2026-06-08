@@ -3,7 +3,7 @@ id: "8a9ac21e-e26c-4064-825a-5150eb24df44"
 name: "social-media-platform-guide"
 display_name: "Social Media Platform Guide"
 description: "Platform specifications, character limits, and best practices for major social networks"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
